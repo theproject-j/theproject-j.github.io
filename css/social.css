@@ -1,0 +1,11 @@
+.fa:hover {
+    opacity: 0.6;
+    transform: scale(1.5);
+}
+
+.fa {
+    padding: 10px;
+    font-size: 40px;
+    width: 60px;
+    text-decoration: none;
+}
